@@ -37,9 +37,9 @@ Objetivos del proyecto:
   <img style="width:900px;" src="https://i.imgur.com/2ANgJPi.png">
   <br>
   <div>
-  <img style="width:500px;" src="https://i.imgur.com/zWXpBwE.png">
-  <img style="width:300px;" src="https://i.imgur.com/BpWXwCp.png">
-  <img style="width:300px;" src="https://i.imgur.com/nIoJdLa.png">
+  <img style="width:900px;" src="https://i.imgur.com/zWXpBwE.png">
+  <img style="width:900px;" src="https://i.imgur.com/BpWXwCp.png">
+  <img style="width:900px;" src="https://i.imgur.com/nIoJdLa.png">
   </div>
  </div>
 <br>
